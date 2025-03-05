@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "Seneca-Reefscape",
+      "defaultValue": "2025njtab",
       "required": "true"
     },
     { "name": "Match Level",
